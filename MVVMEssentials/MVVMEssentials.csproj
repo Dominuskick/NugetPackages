@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>MVVMNavigate</PackageId>
+    <Authors>Dominuskick</Authors>
+    <Description>A password box that allows binding</Description>
+    <PackageTags>Navigate logic between viewmodels</PackageTags>
+  </PropertyGroup>
+
+</Project>
