@@ -6,8 +6,13 @@
     <Nullable>enable</Nullable>
     <PackageId>MVVMNavigate</PackageId>
     <Authors>Dominuskick</Authors>
-    <Description>A password box that allows binding</Description>
+    <Description>Navigation logic between viewmodels</Description>
     <PackageTags>Navigate logic between viewmodels</PackageTags>
+    <PackageProjectUrl>https://github.com/Dominuskick/NugetPackages</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Dominuskick/NugetPackages</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
   </PropertyGroup>
 
 </Project>
