@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\GitHub\NugetPackages\NVVMEssential\NVVMEssential\bin\Debug\net7.0\NVVMEssential.deps.json
+C:\Users\Admin\Documents\GitHub\NugetPackages\NVVMEssential\NVVMEssential\bin\Debug\net7.0\NVVMEssential.dll
+C:\Users\Admin\Documents\GitHub\NugetPackages\NVVMEssential\NVVMEssential\bin\Debug\net7.0\NVVMEssential.pdb
+C:\Users\Admin\Documents\GitHub\NugetPackages\NVVMEssential\NVVMEssential\obj\Debug\net7.0\NVVMEssential.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\NugetPackages\NVVMEssential\NVVMEssential\obj\Debug\net7.0\NVVMEssential.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\NugetPackages\NVVMEssential\NVVMEssential\obj\Debug\net7.0\NVVMEssential.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\NugetPackages\NVVMEssential\NVVMEssential\obj\Debug\net7.0\NVVMEssential.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\NugetPackages\NVVMEssential\NVVMEssential\obj\Debug\net7.0\NVVMEssential.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\NugetPackages\NVVMEssential\NVVMEssential\obj\Debug\net7.0\NVVMEssential.dll
+C:\Users\Admin\Documents\GitHub\NugetPackages\NVVMEssential\NVVMEssential\obj\Debug\net7.0\refint\NVVMEssential.dll
+C:\Users\Admin\Documents\GitHub\NugetPackages\NVVMEssential\NVVMEssential\obj\Debug\net7.0\NVVMEssential.pdb
+C:\Users\Admin\Documents\GitHub\NugetPackages\NVVMEssential\NVVMEssential\obj\Debug\net7.0\ref\NVVMEssential.dll
