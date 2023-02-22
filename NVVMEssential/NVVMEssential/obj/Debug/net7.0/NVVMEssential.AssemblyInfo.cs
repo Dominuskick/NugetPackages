@@ -16,8 +16,8 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Navigation logic between viewmodels")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("MVVMEssentials")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MVVMEssentials")]
+[assembly: System.Reflection.AssemblyProductAttribute("NVVMEssential")]
+[assembly: System.Reflection.AssemblyTitleAttribute("NVVMEssential")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Dominuskick/NugetPackages")]
 
